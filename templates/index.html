@@ -1,0 +1,242 @@
+{% extends "base.html" %}
+{% block content %}
+	<body class="azeret-text">
+		<section class="main-section">
+
+			<hr class="header-hr"></hr>
+			<div class="section-head" >
+				<div>
+					<div class="vertical-bar"></div>
+				</div> <div>
+					<a class="page-description nav" href="blog">[Blogs]</a>
+					<span> \\ </span>
+					<a class="page-description nav" href="trips">[Trips]</a>
+					<span> \\ </span> 
+					<a class="page-description not" href="">[Record Collection]</a>
+					<span> \\ </span> 
+					<a class="page-description not" href="">[Movies]</a>
+				</div>
+
+			</div>
+
+			<div class="section-body">
+				<div class="first-col">
+					<div>
+						<img class="first-img" src="mori2.jpg" width="220" height="383" />
+						<div style="color: #868686; font-size: 12px; text-justify: inter-word; text-align: center; margin-top: 5px;">
+							<span >Climber</span>
+						</div>
+					</div>
+					<div class="song-container">
+						<div class="second-img">
+							<img  src="song.jpg"/>
+						</div>
+						<div class="text-song-container">
+							<span class="title-song">if looks could kill</span>
+							<span class="artist">Destroy Lonely</span>
+						</div>
+
+					</div>
+				</div>
+				<div class="second-col">
+					<section style="min-height: 184px;">
+						<div>
+							<div class="section-title">
+								<span> [ Updates ]</span>
+							</div>
+
+							<div>
+								<p style="justify: left; font-weight: 600; font-size:14px"> New Page Design 
+								<span style="float: right; font-weight: 400; color: #868686">30 Jan 2024</span>
+								</p>
+							</div>
+							<div>
+								<span style="color: #868686; font-size: 12px">People did not like the previous one<span>
+
+							</div>
+						</div>
+						<div>
+							<div>
+								<p style="justify: left; font-weight: 600; font-size:14px"> Blogs Section 
+								<span style="float: right; font-weight: 400; color: #868686">30 Jan 2024</span>
+								</p>
+							</div>
+							<div>
+								<span style="color: #868686; font-size: 12px">Replaced recipies for blogs<span>
+
+							</div>
+						</div>
+						<div>
+							<div>
+								<p style="justify: left; font-weight: 600; font-size:14px"> Page is Up 
+								<span style="float: right; font-weight: 400; color: #868686">30 Jan 2019</span>
+								</p>
+							</div>
+							<div>
+								<span style="color: #868686; font-size: 12px">After some work page is up<span>
+
+							</div>
+						</div>
+					</section>
+
+					<hr style="background: #9B9B9B; margin: 19px 0 15px 0;">
+					<section>
+						<div class="section-title">
+							<span> [Blogs]</span>
+						</div>
+						<div>
+							{% set blog_section = get_section(path="blog/_index.md") %}
+							{% for year, posts in blog_section.pages | group_by(attribute="year") %}
+							{% for post in posts %}
+							<div class="permlink-section">
+								<a class="permlink-title" href="{{post.permalink}}"">{{ post.title}}</a>
+								<span class="permlink-date" >
+									[{{ post.date}}]
+								</span>
+							</div>
+							{% endfor %}
+
+
+							{% endfor %}
+						</div>
+
+
+				</section>
+					<section>
+						<a href="https://pin.it/6gnAe1yel" target="_blank">
+							<video  autoplay width="339" height="208" muted loop>
+
+								<source src="video.mp4" type="video/mp4"  >
+							</video>
+						</a>
+					</section>
+				</div>
+				<div>
+					<div class="section-title">
+						<span> [ Favorite Websites ]</span>
+					</div>
+
+					<div>
+						<p style="justify: left; font-weight: 600; font-size:14px"> Jstris
+						<span style="float: right; font-weight: 400; color: #868686">Tetris PVP</span>
+						</p>
+					</div>
+					<div>
+						<p style="justify: left; font-weight: 600; font-size:14px"> Pinterest 
+						<span style="float: right; font-weight: 400; color: #868686">Cool images</span>
+						</p>
+					</div>
+					<div>
+						<p style="justify: left; font-weight: 600; font-size:14px"> Globle
+						<span style="float: right; font-weight: 400; color: #868686">Guess the country</span>
+						</p>
+					</div>
+					<div>
+						<p style="justify: left; font-weight: 600; font-size:14px"> Youtube
+						<span style="float: right; font-weight: 400; color: #868686">Who knows</span>
+						</p>
+					</div>
+
+					<hr>
+
+					<div class="under-cons">
+						<h3>Under construction</h3>
+					</div>
+
+					<hr>
+
+					<div>
+						<div class="section-title">
+							<span> [Last Movies Watched]</span>
+						</div>
+						<div>
+							<p style="font-weight: 600; font-size: 14px">
+						G : 
+						<span style="color: #868686">[Wong Kar-Wai]</span> 	
+							<span style="float: right; font-weight: 600; ">
+						Fallen Angels	
+							</span>
+							</p>
+						</div>
+						<div>
+							<p style="font-weight: 600; font-size: 14px">
+							G : 
+							<span style="color: #868686">[Gus Van]</span> 	
+							<span style="float: right; font-weight: 600; ">
+								Good Will Hunting
+							</span>
+							</p>
+						</div>
+						<div>
+							<p style="font-weight: 600; font-size: 14px">
+							G : 
+							<span style="color: #868686">[Mathieu Kassovitz]</span> 	
+							<span style="float: right; font-weight: 600; ">
+								La haine	
+							</span>
+							</p>
+						</div>
+						<div>
+							<p style="font-weight: 600; font-size: 14px">
+							G : 
+							<span style="color: #868686">[David Fincher]</span> 	
+							<span style="float: right; font-weight: 600; ">
+								Se7en
+							</span>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div>
+					<div class="section-title">
+						<span> [Trips]</span>
+					</div>
+
+						<div>
+							{% set trips_section = get_section(path="trips/_index.md") %}
+							{% for year, posts in trips_section.pages | group_by(attribute="year") %}
+							{% for post in posts %}
+							<div class="permlink-section">
+								<a class="permlink-title" href="{{post.permalink}}"">{{ post.title}}</a>
+								<span class="permlink-date" >
+									[{{ post.date}}]
+								</span>
+							</div>
+							{% endfor %}
+
+
+							{% endfor %}
+						</div>
+
+					<hr>
+
+					<div class="section-title">
+							<span> [About]</span>
+						</div>
+						<p style="  text-align: justify; text-justify: inter-word;">
+						I am nezi, this page was made to share a bit of  my 
+						life throughout the years and keep it recorded 
+						somewhere for the future.    
+						</p>
+						<p>
+						You can contact me via Discord for now, I’m trying 
+						to setup my own email.
+
+						</p>
+						<p>
+
+						<strong>Discord:</strong> x234xewr4
+						</p>
+
+					</div>
+
+
+	
+				</div>
+
+			</div>
+
+		</section>
+	</body>
+</html>
+{% endblock content %}

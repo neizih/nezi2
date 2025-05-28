@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+{% block content %}
+<html>
+	<head>
+		<title> {{ page.title }}</title>
+		<link rel="stylesheet" href="/single-page.css"/>
+	</head>
+	<body class="azeret-text ">
+		<div class="head">
+			<div>
+				<span id="title" >{{ page.title }}</span>
+			</div>
+			<div>
+				<span id="date">{{ page.date }} </span>
+			</div>
+		</div>
+		<div id="content">
+			{{ page.content | safe }}
+		</div>
+
+		{% endblock content %}
+		</div>
+	</body>
+</html>
