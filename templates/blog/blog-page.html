@@ -15,12 +15,33 @@
 			<div>
 				<span id="date">{{ page.date }} </span>
 			</div>
+			<div>
+				{% if page.translations | length > 0 %}
+				<nav id="language-switcher">
+					{% for t in page.translations %}
+					<a href="{{ t.permalink }}">{{ t.lang | upper }}</a>
+					{% endfor %}
+				</nav>
+				{% endif %}
+			</div>
 		</div>
 		<div id="content">
 			{{ page.content | safe }}
 		</div>
 
 		{% endblock content %}
+
+		{% if page.translations %}
+		<div class="lang-switcher">
+			{% for t in page.translations %}
+			<a href="{{ t.permalink }}">
+				{% if t.lang == "en" %}English{% endif %}
+				{% if t.lang == "es" %}Español{% endif %}
+			</a>
+			{% endfor %}
+		</div>
+		{% endif %}
+
 		</div>
 	</body>
 </html>

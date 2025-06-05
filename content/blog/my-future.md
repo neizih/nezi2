@@ -1,29 +1,20 @@
 +++
 title = "The Future" 
 date = 2024-09-03
+lang = "en"
 template = "trips/trips-page.html"
 +++
 
-Recientemente mi compañero de trabajo me preguntó: 
+I almost always live in the present, but recently, I've been thinking a lot about the future and what it might be like. Older people often tell me one of two things: that I should take advantage of my age to have a good time, or that I should take advantage of it to work as hard as possible and have a secured future. It feels like having an angel and a devil on either side of my shoulders.
 
-"Cuáles son tus planes para el futuro?" 
+For my future, what I'm most excited about is the plan I have with my best friend to travel to another continent for three months, an idea I can only imagine could happen in a movie. If I think about anything every day, it's that trip, I can't put into words how excited I am.
 
-"Tomar esos 3 meses de viaje con mi amigo" - Dije 
+At the same time, someone on one of my shoulders tells me that I should better think about securing my future as soon as possible. Not everyone is lucky enough to have a college degree in their hands to use, but if my memories for the next few decades are of me in an office staring at a screen, I don't know what the point of still being alive is.
 
-Noté en su cara que no estaba esperando esa respuesta, creo que esperaba que dijera algún otro trabajo o algún negocio que pueda construir. El entendió la situación y me habló más del viaje, aunque no dudo que le parecía extraño que lo único en lo que pensaba para mi futuro era un viaje.
+The trip will help me live a real life, away from the internet, , meeting new people,  doing activities, learn about cultures, and places, recording videos to document everything, taking photos, trying new foods, creating memories, and a lot of other things. Living life as it should be, as I never allowed myself to, connected to reality.
 
-La mayor parte del tiempo vivo en el presente pero recientemente, he estado pensando mucho en el futuro y le tengo miedo. Unos me dicen que tengo que aprovechar mi tiempo para pasarlo bien y otros dicen que tengo que trabajar lo más duro posible para estar tranquilo más adelante. 
+On the other hand, I don't want to disappoint my loved ones after everything they've given me. I don't want them to think I'm a good-for-nothing who wastes his time traveling. Maybe I sound dramatic because it's only been three months, but it has quite a few risks and implications in my case.
 
-Como mencioné anteriormente, planeo hacer un viaje de 3 meses con mi mejor amigo el otro año. Mi familia por supuesto no me detiene pero para nada apoya la decisión, la idea de que pierda mi trabajo por un viaje les parece inaceptable. No solo eso, cuando vuelva no tendré a ningún familiar cerca porque se habrán mudado todos del país. Siento que les duele que después de tanto que dieron por mi y por mi educación, decida de la nada tomar un desvío que no esperaban. 
+Returning to the older people, whatever path they've taken, it seems they've lived long enough to be able to give me advice. The decision has already been made, although there's always a voice in the back of my head worrying about what might happen.
 
-En algún momento me encantaría formar una familia pero si es así, debería comenzar a trabajar lo más duro posible desde ya si quiero tener una casa y auto para mi familia y pagar todo lo antes posible. También, por ninguna buena razón, me preocupa lo que la gente podría llegar a pensar de mi. La idea de que la gente que más quiero opine que soy un bueno para nada y que pierdo mi tiempo viajando me destroza el corazón. 
-
-Por otro lado, el plan de viajar durante 3 meses me parece increíble, es algo que solo se me ocurre que pueda pasar en una película. No puedo poner en texto la cantidad de ilusión que me hace tan solo pensar e imaginar lo que puede ser. Todas las personas en internet que lo han hecho dicen que es una experiencia que hay que tomar sin lugar a dudas. 
-
-No me parece buena la idea de esperar unos 20 o incluso 30 años más para empezar a vivir. Jamás volveré a tener esta edad, jamás tendré tanta energía, podría morir pronto, podría aprender muchas cosas, tendré memorias para el resto de mi vida. No creo que uno haya nacido para trabajar, si mis memorias para las siguientes décadas serán yo sentado en una oficina, no sé qué sentido tendría seguir viviendo.
-
-Por esto y mucho más, tomo la decisión de tomar ese viaje aunque siempre queda aquella voz que me dice que me voy a arrpentir y que pagaré las consecuencias. Es como si tuviera un angel en un hombro y un domonio en el otro. Espero que no me detenga de disfrutar mi viaje.
-
-#### ¿Por qué escribir sobre esto? 
-
-Cuando lea esto en un futuro quiero tener la mayor carcajada de mi vida porque todo habrá salido bien o supe como hacer que funcione. Si no lo llego a leer seguramente la página habrá caído porque me quedé sin dinero.  
+I want to read this in the future and laugh at all the worries I have today, knowing that in the end everything worked out as it should have, and that I can even take more trips. If it went wrong this page probably went down because I ran out of money.

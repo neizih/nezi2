@@ -1,6 +1,6 @@
 +++
 title = "Trip to river"
-date = 2019-11-27
+date = 2024-11-03
 +++
 
 It was a Sunday, my family and I went to a small waterfall. It took a long time to get there, it was very hidden. Here's a picture of that waterfall:

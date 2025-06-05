@@ -57,4 +57,19 @@ pre code {
 		color: black;
 }
 
+a:visited {
+	color: #000EE
+}
+
+a{
+	color:blue
+}
+
+.laguage-switcher{
+	color: blue;
+}
+
+.language-switcher:visited{
+	color: blue;
+}
 
