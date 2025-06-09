@@ -1,8 +1,7 @@
 +++
-title = "The Future" 
+title = "Future" 
 date = 2024-09-03
 lang = "en"
-template = "trips/trips-page.html"
 +++
 
 I almost always live in the present, but recently, I've been thinking a lot about the future and what it might be like. Older people often tell me one of two things: that I should take advantage of my age to have a good time, or that I should take advantage of it to work as hard as possible and have a secured future. It feels like having an angel and a devil on either side of my shoulders.
