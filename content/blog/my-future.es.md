@@ -9,18 +9,15 @@ Casi siempre vivo en el presente pero recientemente, pienso mucho en el futuro y
 
 ![image](/ad.jpg "title")
 
-Para mi futuro lo que más me hace ilusión es el plan que tengo con mi mejor amigo de viajar 3 meses en otro continente, una idea que solo se me ocurre que puede ocurrir en una película. Si en algo pienso todos los días es en ese viaje, no puedo poner en texto lo cantidad de ilusión que me hace.
+Para mi futuro lo que más me hace ilusión es el plan que tengo con mi mejor amigo de viajar 3 meses en otro continente, una idea que solo se me ocurre que puede suceder en una película. Si en algo pienso todos los días es en ese viaje, no puedo poner en texto lo cantidad de ilusión que me hace.
 
 Al mismo tiempo, alguien en uno de los hombros me dice que debería mejor pensar en asegurar mi futuro lo antes posible. No todos tienen la suerte de tener un título universitario en sus manos que puedan aprovechar pero, solo me hace imaginar una vida que no vale la pena vivir, el mundo es muy grande para estar atrapado en una oficina el resto de mi vida.
 
-El viaje me ayudará a vivir la vida real, lejos de internet, haciendo actividades, conociendo gente nueva, culturas, lugares, grabando videos para para un documental, tomando fotos, probando comida nueva, creando memorias entre otra infinidad de cosas. Vivir la vida como debe ser, como nunca me lo permití, conectado a la realidad.
+Pienso que el viaje es la definición de vivir la vida, con felicidad, miedo, tristeza, adrenalina, ansias, dudas, conociendo gente nueva, lugares nuevos, culturas nuevas, probando comida nueva, creando memorias, tomando videos y fotos para un documental entre otra infinidad de cosas que no me espero. Vivir la vida como me gustaría, como nunca me lo permití, conectado a la realidad. 
 
-Por otro lado, no quiero decepcionar a mis seres queridos después de todo lo que dieron por mi, no quiero que piensen que soy un bueno para nada que pierde su tiempo viajando. Tal vez sueno dramático porque solo son 3 meses pero estoy apostando todo al verde. 
+Por otro lado, no quiero decepcionar a mis seres queridos después de todo lo que dieron por mi, no quiero que piensen que soy un bueno para nada que pierde su tiempo viajando. Tal vez sueno dramático porque solo son 3 meses pero podría traer graves consecuencias.
 
-El riesgo de ese viaje no puede ser más alto pero ahora mismo me parece que es la definición de vivir. Suena muy absurdo el hecho de renunciar a un futuro seguro por vivir una vida con un futuro incierto, pero me parece igual de absurdo vivir una vida monótona.
-
-A lo mejor no logro ver el panorama completo de las cosas, desearía recibir una carta de mi futuro yo para estar más tranquilo.
-
+Lo cierto es que no me importan esas consecuencias, creo que ahora mismo aprecio más vivir cosas nuevas. A lo mejor soy necio y no logro ver el panorama completo de las cosas, desearía recibir una carta de mi futuro yo para estar más tranquilo.
 
 Volviendo a la gente mayor, sea cuál sea el camino que hayan tomado, parece que vivieron lo suficiente para poder darme un consejo. La decisión ya está tomada aunque siempre con una voz en el fondo de mi cabeza preocupada por lo que pueda llegar a pasar.
 
