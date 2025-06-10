@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+.azeret-text {
+  font-family: "Azeret Mono", serif;
+  font-optical-sizing: auto;
+  font-style: 500;
+}
+
+body{
+	padding-top: 130px;
+	background: #E1E1E1;
+	margin:auto; 
+	vertical-align: middle;
+	width: 820px;
+}
+
+.title  > span{
+	font-size: 64px;
+	font-weight:600; 
+	text-align: center;
+	justify-content: center; 
+	display: block;
+	font-weight: 600;
+	margin-bottom: 25px;
+}
+
+a:visited{
+	color:blue;
+}
+
+a{
+	color:blue;
+}
