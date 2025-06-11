@@ -1,7 +1,7 @@
 +++
 title = "Futuro"
 lang = "es"
-date = 2024-01-01
+date = 2025-06-10
 template = "blog/blog-page.html"
 +++
 
@@ -9,16 +9,18 @@ Casi siempre vivo en el presente pero recientemente, pienso mucho en el futuro y
 
 ![image](/ad.jpg "title")
 
-Para mi futuro lo que más me hace ilusión es el plan que tengo con mi mejor amigo de viajar 3 meses en otro continente, una idea que solo se me ocurre que puede suceder en una película. Si en algo pienso todos los días es en ese viaje, no puedo poner en texto lo cantidad de ilusión que me hace.
+Para mi futuro lo que más me hace ilusión es el plan que tengo con mi mejor amigo de viajar 3 meses a otro continente, una idea que solo se me ocurre que puede suceder en una película. Si en algo pienso todos los días es en ese viaje, no puedo poner en texto lo cantidad de ilusión que me hace.
 
-Al mismo tiempo, alguien en uno de los hombros me dice que debería mejor pensar en asegurar mi futuro lo antes posible. No todos tienen la suerte de tener un título universitario en sus manos que puedan aprovechar pero, solo me hace imaginar una vida que no vale la pena vivir, el mundo es muy grande para estar atrapado en una oficina con apenas algo de vacacciones. 
+Al mismo tiempo, alguien en uno de los hombros me dice que debería mejor pensar en asegurar mi futuro lo antes posible. No todos tienen la suerte de tener un título universitario en sus manos que puedan aprovechar pero, solo me hace imaginar una vida que no vale la pena vivir, el universo es muy grande para estar pensando para quién trabajar.
 
-Pienso que el viaje es la definición de vivir la vida, con felicidad, miedo, tristeza, adrenalina, ansias, dudas, conociendo gente nueva, lugares nuevos, culturas nuevas, probando comida nueva, creando memorias, tomando videos y fotos para un documental entre otra infinidad de cosas que no me espero. Vivir la vida como me gustaría, conectado a la realidad. 
+Pienso que el viaje es la definición de vivir la vida, con felicidad, miedo, tristeza, adrenalina, nerviosismo, dudas, conociendo gente nueva, lugares nuevos, culturas nuevas, probando comida nueva, creando memorias, tomando videos y fotos para un documental entre otra infinidad de cosas que no me espero. Vivir la vida como ahora me gustaría, conectado a la realidad.
 
-Por otro lado, no quiero decepcionar a mis seres queridos después de todo lo que dieron por mi, no quiero que piensen que soy un bueno para nada que pierde su tiempo viajando. Tal vez sueno dramático porque solo son 3 meses pero podría traer graves consecuencias.
+Por otro lado, me importa bastante lo que las personas más cercanas a mí piensen. Si algo sale mal me desmotivaría saber que digan "Te dije que no era una buena decisión!" o que cierta gente se sienta decepcionada en vez de apoyar mi camino después de todo.
 
-Lo cierto es que no me importan esas consecuencias, creo que ahora mismo aprecio más vivir cosas nuevas. A lo mejor soy necio y no logro ver el panorama completo de las cosas, desearía recibir una carta de mi futuro yo para guiarme en las decisiones que tomo.
+Lo cierto es que creo que ahora mismo aprecio más vivir cosas nuevas, a lo mejor estoy nublado por la ilusión y no me deja ver las consecuencias. De todas formas, creo en el destino y que sucederá lo que esté escrito para mi. De igual manera me gustaría recibir una carta de mi yo del futuro para estar aliviado, aunque supongo que no tendría gracia.
 
-Volviendo a la gente mayor, ninguno de los que apoyan el viaje han vivido una experiencia como la que planeo, tan solo desearían haberlo hecho a mi edad. Supongo que les hubiera gustado crear más memorias cuando pudieron. Sea como sea, estoy decidido por tomar el viaje. En un futuro no quiero pensar en qué hubiera pasado si hubiera tomado la decisión.
+Volviendo a la gente mayor, ninguno de los que apoyan el viaje han vivido una experiencia como la que planeo, tan solo desearían haberlo hecho a mi edad, creo que es un detalle importante. Sea como sea, estoy decidido a tomar el viaje. Si no tomo el viaje estoy seguro que mi futuro yo estará preguntándose a diario si fue lo correcto.
 
-Quiero leer esto en un futuro y reírme de todas las preocupaciones que tengo hoy, que al final todo salió como debió ser y que incluso puedo tomar más viajes. Si salió mal probablemente está página habrá caído porque me quedé sin dinero.
+Por más absurdo que sea que venga de mí, siento que todos tenemos la obligación de explorar el mundo, conocer todas sus culturas posibles y todas las personas posibles. He aprendido con los años que lo que sucede en línea no es real, irónicamente. Conectarse con lo que está alrededor es mucho más gratificante que cualquier cosa que pueda suceder en línea. Quiero obligarme a salir de mi burbuja y vivir una vida distinta durante unos meses, lejos de internet. Es un tema del que voy a hablar en un blog muy pronto!
+
+Quiero leer esto en un futuro y reírme de todas las preocupaciones que tengo hoy, que al final todo salió como debió ser y que incluso puedo tomar más viajes. Si todo salió mal probablemente está página habrá caído porque me quedé sin dinero.

@@ -29,19 +29,10 @@
 			{{ page.content | safe }}
 		</div>
 
-		{% endblock content %}
-
-		{% if page.translations %}
-		<div class="lang-switcher">
-			{% for t in page.translations %}
-			<a href="{{ t.permalink }}">
-				{% if t.lang == "en" %}English{% endif %}
-				{% if t.lang == "es" %}Español{% endif %}
-			</a>
-			{% endfor %}
+		<div style="margin-top:15px">
+			<a href="/blog"><--</a>
 		</div>
-		{% endif %}
-
+		{% endblock content %}
 		</div>
 	</body>
 </html>
