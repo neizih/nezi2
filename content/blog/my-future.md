@@ -8,7 +8,7 @@ I almost always live in the present, but recently, I’ve been thinking a lot ab
 
 ![image](/ad.jpg "title")
 
-For my future, the thing that excites me the most is the plan I have with my best friend to travel for 3 months to another continent, an idea that only occurs to me as something that could happen in a movie. If there's one thing I think about every single day, it’s that trip. I can’t put into words how excited I am about it.
+For my future, the thing that excites me the most is the plan I have with my best friend to travel for months to another continent, an idea that only occurs to me as something that could happen in a movie. If there's one thing I think about every single day, it’s that trip. I can’t put into words how excited I am about it.
 
 At the same time, someone on one of my shoulders tells me I should instead focus on securing my future as soon as possible. Not everyone is lucky enough to have a university degree they can make use of, but that only makes me picture a life that’s not worth living. The universe is too big to be thinking about who to work for.
 
@@ -18,7 +18,7 @@ On the other hand, I do care about what the people closest to me think. If somet
 
 The truth is, right now I value experiencing new things more, maybe I’m blinded by excitement and it's not letting me see the consequences. Still, I believe in destiny, and that whatever is meant to happen will happen. Even so, I’d love to receive a letter from my future self to feel at ease.
 
-Coming back to older people, none of those who support the trip have ever lived an experience like the one I’m planning. They just wish they had done it at my age. I think that’s an important detail. One way or another, the decision has been taken. If I don’t take the trip, I’m sure my future self will be wondering every day if it was the right choice.
+Coming back to older people, none of those who support the trip have ever lived an experience like the one I’m planning. They just wish they had done it at my age. I think that’s an important detail. One way or another, the decision has been taken. If I don’t take the trip, I’m sure my future self will be wondering every single day if it was the right choice.
 
 As absurd as it might sound coming from me, I feel that we all have the obligation to explore the world, to get to know all the cultures we can and as many people as possible. I’ve learned over the years that what happens online isn’t real, ironically. Connecting with what’s around me is far more fulfilling than anything that can happen online. I want to force myself to get out of my bubble and live a different kind of life for a few months, away from the internet. It’s a topic I will write about in a future blog very soon!
 

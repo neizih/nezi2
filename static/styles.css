@@ -44,8 +44,6 @@ body{
 .second-col{
 	width: 341px;
 	vertical-align:top;
-
-	
 }
 
 .page-description{
@@ -153,7 +151,6 @@ body{
 .under-cons{
 	justify-items:center;
 	text-align: center; 
-	margin: 100px 0 100px 0;
 }
 
 .not{
