@@ -3,7 +3,7 @@ title = "Future"
 date = 2025-06-10
 lang = "en"
 +++
-
+<hr>
 I almost always live in the present, but recently, I’ve been thinking a lot about the future and what it could become. Older people usually tell me one of two things: that I should take advantage of my age to have fun, or that I should work as hard as possible now to be at ease later. Two completely opposite poles, it’s like having an angel on one shoulder and a demon on the other.
 
 ![image](/ad.jpg "title")

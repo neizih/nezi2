@@ -4,6 +4,7 @@ lang = "es"
 date = 2025-06-10
 template = "blog/blog-page.html"
 +++
+<hr>
 
 Casi siempre vivo en el presente pero recientemente, pienso mucho en el futuro y lo que podrá llegar a ser. La gente mayor me suele decir una de dos cosas, que debería aprovechar mi edad para pasarla bien o aprovecharla para trabajar lo más duro posible y estar tranquilo más adelante. Dos polos totalmente opuestos, es como tener un ángel en un hombro y un demonio en el otro.
 

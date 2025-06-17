@@ -2,6 +2,7 @@
 title = "First Blog"
 date = 2024-09-03
 +++
+<hr>
 
 This section was a recipes section before, I did learn how to cook some of the meals
 but I was too lazy to upload it. I think a blog section can be more interesting for the future, I have so many blog ideas in my head. For this one tho I'm just gonna talk about some random stuff.

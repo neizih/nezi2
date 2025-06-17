@@ -3,6 +3,8 @@ title = "Trip to river"
 date = 2024-11-03
 +++
 
+<hr>
+
 It was a Sunday, my family and I went to a small waterfall. It took a long time to get there, it was very hidden. Here's a picture of that waterfall:
 
 It was so beautiful in real life, and it felt real too. We had been on rivers before, never liked them because of how cold they are. This time tho, I just jumped in. Water was freezing, but it felt so good this time. We had a great time, we laughed and talked, and my brother did crazy stuff as usual. I love rivers now. I guess it was a thing of teenage years, I'm glad I've grown out of it.
