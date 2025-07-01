@@ -1,12 +1,11 @@
-
 {% extends "base.html" %}
 {% block content %}
 <html>
 	<head>
 		<title> {{ page.title }}</title>
-		<link rel="icon" href="favico.jpg">
 		<link rel="stylesheet" href="/single-page.css"/>
-
+		<link rel="icon" href="/favico.ico">
+		<meta charset="UTF-8">
 	</head>
 	<body class="azeret-text ">
 		<div class="head">
@@ -15,6 +14,15 @@
 			</div>
 			<div>
 				<span id="date">{{ page.date }} </span>
+			</div>
+			<div>
+				{% if page.translations | length > 0 %}
+				<nav id="language-switcher">
+					{% for t in page.translations %}
+					<a href="{{ t.permalink }}">{{ t.lang | upper }}</a>
+					{% endfor %}
+				</nav>
+				{% endif %}
 			</div>
 		</div>
 		<div id="content">
@@ -27,4 +35,4 @@
 		{% endblock content %}
 		</div>
 	</body>
-</html>
+</html
