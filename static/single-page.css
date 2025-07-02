@@ -57,12 +57,12 @@ pre code {
     display: block;
     background-color: #c9c7c7;
     padding: 15px;
-		border-radius: 3px;
-		color: black;
+	border-radius: 3px;
+	color: black;
 }
 
 a:visited {
-	color: #000EE
+	color: #000EEE;
 }
 
 a{
