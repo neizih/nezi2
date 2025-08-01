@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="icon" href="favico.jpg">
+		<link rel="stylesheet" href="/styles-page.css"/>
+		<link rel="icon" href="/favico.ico">
+		<title>Movies</title>
+	</head>
+	<body class="azeret-text">
+
+		<div class="title">
+			<span>Movies</span>
+		</div>
+		{% if paginator %}
+
+		<div>
+            <a href="index-movie">Index</a>
+			{% for post in paginator.pages %}
+			<div>
+				<span>{{post.date}}</span>
+				<span id="separator">----------------------------------------------------</span>
+				<a href="{{ post.permalink }}">{{ post.title }}</a>
+			</div>
+			{% endfor %}
+		</div>
+		{% endif %}
+		<!--
+		{% if paginator.previous %}
+		<a href="{{ paginator.previous }}">&lt;</a>
+		{% else %}
+		&lt;
+		{% endif %}
+		<span>{{ paginator.current_index }}</span>
+		{% if paginator.next %}
+		<a href="{{ paginator.next }}">&gt;</a>
+		{% else %}
+		&gt;
+		{% endif %}
+		-->
+		<div style="margin-top:15px">
+			<a href="/"><--</a>
+		</div>
+
+	</body>
+
+</html>
