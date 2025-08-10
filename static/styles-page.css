@@ -31,3 +31,22 @@ a:visited{
 a{
 	color:blue;
 }
+
+.entry {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  white-space: nowrap;
+}
+
+.dots {
+  flex: 1;
+  border-bottom: 3px dashed #999; /* the dotted line */
+  margin: 0 8px; /* space between title and date */
+}
+
+.date {
+  white-space: nowrap;
+}

@@ -3,28 +3,75 @@
 <html>
 	<head>
 		<link rel="icon" href="favico.jpg">
-		<link rel="stylesheet" href="/styles-page.css"/>
+		<link rel="stylesheet" href="/styles-movie.css"
 		<link rel="icon" href="/favico.ico">
 		<title>Movies</title>
 	</head>
 	<body class="azeret-text">
 
-		<div class="title">
-			<span>Movies</span>
+		<div >
+			<span class="title">Movies</span>
 		</div>
+		<span>8/8/2025</span>
+
+		<p>I started this year to watch movies, here is a list of the ones I've watched so far. Titles highlighted  with <span style="color: #FE9920">this color</span>, are my favorite ones!</p>
+
+		<div class="container">
+			
+			<div>
+				<div class="card">
+					<img src="/amadeus.jpg" class="card-image"></img>
+					<div class="text">
+						<span class="card-title">Amadeus (Director's cut)</span>
+						<span class="desc">A film about Antonio Salieri, a celebrated composer whose life changes after meeting Wolfgang Amadeus Mozart. Rich in symbolism and incredible performances, it woke up an interest for classical music and it is currently my favorite movie.</span>
+					</div>
+				</div>
+			</div>
+
+			<div>
+				<div class="card">
+					<img src="/haine.jpg" class="card-image"></img>
+					<div class="text">
+						<span class="card-title">La haine</span>
+						<span class="desc">After a night that left their friend critiacly injured due to riots, we are shown the next 24 hours of a group of three teenagers, where conflict is a constant. This was the first movie outside the U.S.A that I watched. Their way of acting and talking was very new for me.</span>
+					</div>
+				</div>
+
+			</div>
+
+			<div>
+				<div class="card">
+					<img src="/whip.jpg" class="card-image"></img>
+					<div class="text">
+						<span class="card-title">Whiplash</span>
+						<span class="desc">An aspiring jazz drummer who is obsessed with being the best. His passion pushes him beyond his limits. A movie with a memorable OST</span>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+
+		<!----
 		{% if paginator %}
 
+
 		<div>
-            <a href="index-movie">Index</a>
 			{% for post in paginator.pages %}
-			<div>
-				<span>{{post.date}}</span>
-				<span id="separator">----------------------------------------------------</span>
-				<a href="{{ post.permalink }}">{{ post.title }}</a>
+			<div style="font-family: 'Azeret Mono', serif;">
+			
+				<div class="entry">
+					<a href="{{ post.permalink }}" class="title"> {{ post.title }}</a>
+					<span class="dots"></span>
+					<span class="date">{{post.date}}</span>
+				</div>
+			
 			</div>
 			{% endfor %}
 		</div>
 		{% endif %}
+		-->
+
 		<!--
 		{% if paginator.previous %}
 		<a href="{{ paginator.previous }}">&lt;</a>
