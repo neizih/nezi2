@@ -16,10 +16,10 @@
 
 		<div>
 			{% for post in paginator.pages %}
-			<div>
-				<span>{{post.date}}</span>
-				<span id="separator">----------------------------------------------------</span>
-				<a href="{{ post.permalink }}">{{ post.title }}</a>
+			<div class="entry">
+				<a href="{{ post.permalink }}"> <span class="title-movie">{{ post.title }} </span></a>
+				<span class="dots"></span>
+				<span class="date">{{ post.date }}</span>
 			</div>
 			{% endfor %}
 		</div>

@@ -1,0 +1,97 @@
+[[movies]]
+title = "Amadeus Director's Cut"
+year = 1984
+has_review = false 
+status = 4
+
+[[movies]]
+title = "All About Lily Chou-Chou"
+year = 2001
+has_review = false 
+status = 4
+
+
+[[movies]]
+title="Kaili Blues"
+year=2015
+has_review = false 
+status = 4 
+
+[[movies]]
+title = "Fallen Angels"
+year = 1995
+has_review = false
+status = 4 
+
+[[movies]]
+title = "La Haine"
+year = 1995
+has_review = false 
+status = 4 
+
+[[movies]]
+title = "The Seventh Seal"
+year = 1957
+has_review = false 
+status = 4 
+
+[[movies]]
+title = "Trainspotting"
+year = 1996
+has_review = false 
+status = 1 
+
+[[movies]]
+title = "The Good, The Bad, and The Ugly"
+year = 1996
+has_review = false 
+status = 1
+
+[[movies]]
+title = "Se7en"
+year = 1995
+has_review = false 
+status = 1 
+
+[[movies]]
+title="Donnie Darko Director's Cut"
+year = 2001
+has_review = false 
+status = 1
+
+[[movies]]
+title = "Inception"
+year = 2010
+has_review = false 
+status = 2 
+
+[[movies]]
+title = "Eyes Wide Shut"
+year = 1999
+has_review = false 
+status = 2
+
+[[movies]]
+title="Blue Spring 2001"
+year=2001
+has_review = false
+status = 2
+
+[[movies]]
+title = "The Fast and Furious: Tokyo Drift"
+year = 2006
+has_review = false
+status = 3
+
+[[movies]]
+title = "Me Before You"
+year = 2016
+has_review = false 
+status = 3
+
+[[movies]]
+title = "Kill Bill Vol 1"
+year = 2003
+has_review = false
+status = 3 
+

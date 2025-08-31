@@ -11,11 +11,11 @@ default_language = "en"
 
 
 [languages.en]
-title = "My Blog"
+title = "Nezi"
 description = "English version"
 
 [languages.es]
-title = "Mi Blog"
+title = "Nezi"
 description = "Versión en español"
 
 [markdown]
@@ -24,4 +24,5 @@ description = "Versión en español"
 highlight_code = true
 
 [extra]
+paginate_by = 10
 # Put all your custom variables here

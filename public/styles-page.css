@@ -12,16 +12,19 @@ body{
 	margin:auto; 
 	vertical-align: middle;
 	width: 820px;
+
 }
 
 .title  > span{
 	font-size: 64px;
 	font-weight:600; 
-	text-align: center;
-	justify-content: center; 
-	display: block;
 	font-weight: 600;
 	margin-bottom: 25px;
+}
+
+.about{
+	margin: 20px 0px;
+	font-weight: 500;
 }
 
 a:visited{
@@ -33,11 +36,16 @@ a{
 }
 
 .entry {
+  position: relative;
+  font-weight: 500;
   display: flex;
   align-items: center;
+  margin: 5px 0 ;
 }
 
 .title {
+
+  margin-bottom: 25px;
   white-space: nowrap;
 }
 
@@ -49,4 +57,36 @@ a{
 
 .date {
   white-space: nowrap;
+}
+
+.entry::before {
+	content: '';
+	position: absolute;
+	left: -20px;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 12px;
+	height: 5px;
+	background-color: transparent;
+}
+
+.entry.no-link::before {
+	background-color: #ff6b6b;
+}
+
+.entry.no-link.status-1::before {
+	background-color: #4caf50;
+}
+
+
+.entry.no-link.status-2::before {
+	background-color: #f9a825; 
+}
+
+.entry.no-link.status-3::before {
+	background-color:#ff3333; 
+}
+
+.entry.no-link.status-4::before{
+	background-color: blue;
 }
