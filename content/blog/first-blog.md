@@ -12,14 +12,15 @@ but I was too lazy to upload it. I think a blog section can be more interesting 
 ***Pagination***: I can't figure out how to use pagination with Hugo, which is the framework I use to make this website work. Take for example the previous page, each time I add a new blog the list will grow, not having pagination will make the list infinitely grow making it look ugly, specially for this layout. I need something like this: 
 
 ```
-                            1 2 3 4 ... Next > 
+                      1 2 3 4 ... Next > 
                     
-                                 Blog 1 
-                                 Blog 2 
-                                 Blog 3
+                            Blog 1 
+                            Blog 2 
+                            Blog 3
 
-                            1 2 3 4 ... Next >
+                      1 2 3 4 ... Next >
 ```
+
 
 I've considered moving to another framework, but that would be very painful to do, I don't think I have any other option anyway.
 

@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
 
+pre{
+  background: black;
+}
+
+code{
+  background; black;
+}
+
 .azeret-text {
   font-family: "Azeret Mono", serif;
   font-optical-sizing: auto;
