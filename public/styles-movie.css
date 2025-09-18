@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+.azeret-text {
+  font-family: "Azeret Mono", serif;
+  font-optical-sizing: auto;
+  font-style: 500;
+}
+
+body{
+	padding-top: 130px;
+	background: #E1E1E1;
+	margin:auto; 
+	vertical-align: middle;
+	width: 1400px;
+}
+
+.item{
+  display: flex;
+  gap: 15px;
+  margin-bottom: 50px;
+}
+
+img{
+  width: 200px;
+}
+
+.section-title{
+	background: #D9D9D9;
+	margin: auto;
+	text-align: center;
+}
+
+
+
+a:visited{
+	color:blue;
+}
+
+a{
+	color:blue;
+}
+
+.container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap:20px;
+}
+
+.container-other{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+}
+
+.container-stat{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap:20px;
+  text-align: center;
+  padding: 30px 0 30px 0;
+}
+
+.b{
+  font-weight: 800;
+  size: 32px;
+}
+
+.title{
+  font-weight: 800;
+  size: 24px;
+}
+
+.stats{
+  margin: 20px 0 20px 0;
+}
+
+.section-title{
+	background: #D9D9D9;
+	margin: auto;
+	text-align: center;
+
+}
+
+.stat-title{
+  font-weight: 600;
+  font-size: 64px;
+  text-align: center;
+  margin: auto;
+}
