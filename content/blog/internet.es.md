@@ -1,5 +1,5 @@
 +++
-title = "Internet"
+title = "Escribir un Blog"
 lang = "es"
 date = 2025-06-10
 template = "blog/blog-page.html"
@@ -7,14 +7,20 @@ template = "blog/blog-page.html"
 
 <hr>
 
-Por mucho que no quiera, paso mucho tiempo en internet. Y, sin importar cuánto lo deseo, no puedo estar desconectado.
+Esta página tiene cerca de un año de existir y aún, no hice ningún artículo en la sección de Blogs. Cuando la cree tenía varios temas en mente pero al momento de escribir, era sorprendentemente difícil. 
 
-Normalmente no uso ese tiempo en internet para algo productivo, casi siempre se pierde en cosas sin mucho valor. Y aunque no creo en que hayamos nacido para ser máquinas de producción, vivir en internet no me nutre el alma. 
+Primeramente, escribo en una computadora que justamente armé para poder distraerme. Por lo que es mucho más fácil ver **Youtube**, películas, jugar vídeojuegos o escuchar música que pensar en qué voy a escribir. Y aunque sé que al final construir mi blog y tener recuerdos es mucho más gratificante que distraerme, no puedo evitar buscar algo más fácil que hacer. 
 
-El mayor problema es que es casi imposible llegar a estar desconectado completamente, y aunque estoy seguro que no era ese el propósito en un inicio, a medida que fue evolucionando internet cada vez más se tomó en cuenta robar toda la atención posible. 
+Aunque pueda sonar como una excusa, no es fácil escribir un artículo. No es como un diario donde puedo tirar todos mis pensamientos sabiendo que sólo yo lo voy a leer. Tengo que tener en cuenta que otra gente va a leer esto y que tengo que hacerlo de la mejor forma posible porque quiero aportar algo de valor para el lector. 
 
-Me da mucha lástima cuando me veo a mi mismo ver a otra gente vivir su vida a través de mi pantalla, aunque nada me detenga de salir a vivir, la comodidad de "vivir" a través de una pantalla es mucho más cómoda. 
+Sin embargo, siento que cree una oportunidad para poner a trabajar mi cerebro y sin embargo no lo aprovecho. Por más difícil que sea escribir es claramente posible con práctica. El hecho que no pueda escribir un artículo dice mucho sobre el estado hueco de mi cabeza. Navego de forma tan inconsciente en internet que, no es posible para mi . Lo que intento decir es que, no intento nutrir mi cerebro con algo relevante, no es que tenga que hacerlo constantemente pero, rara vez consumo algo que sea de valor.
 
-Lo peor de todo es que, siempre me digo a mi mismo "este fin de semana tienes que hacer algo fuera de casa", nunca lo hago. Siempre existe la excusa menos válida para evitar precisamente vivir. 
+Dicho esto, creo que la mejor forma de empezar a usar mi cerebro es usar esta página con mucha más frecuencia. 
 
-Tenía pensado escribir este artículo desde hace más de un año y no fue si no hasta que empecé a vivir más que tuve la suficiente frustración de no haber vivido todo este tiempo.  
+¿Por qué escribir un blog no es tán fácil?
+
+ - Todo distrae
+ - No es un diario, alguien más lo va a leer
+ - ¿Vale la pena?
+ - Fuera de práctica
+ - Desmotivación

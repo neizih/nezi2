@@ -10,7 +10,6 @@ body{
 	background: #E1E1E1;
 	width: 1251px;
 	margin: auto;
-	vertical-align:middle;
 }
 
 .header-hr{
@@ -34,7 +33,7 @@ body{
 }
 
 .main-section{
-	margin-top: 130px;
+	margin-top: 95px;
 }
 
 .first-col{
