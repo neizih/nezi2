@@ -9,7 +9,7 @@ template = "blog/blog-page.html"
 
 Esta página tiene cerca de un año de existir y aún, no hice ningún artículo en la sección de Blogs. Cuando la cree tenía varios temas en mente pero al momento de escribir, era sorprendentemente difícil. 
 
-Primeramente, escribo en una computadora que justamente armé para poder distraerme. Por lo que es mucho más fácil ver **Youtube**, películas, jugar vídeojuegos o escuchar música que pensar en qué voy a escribir. Y aunque sé que al final construir mi blog y tener recuerdos es mucho más gratificante que distraerme, no puedo evitar buscar algo más fácil que hacer. 
+Primeramente, escribo en una computadora que justamente armé para poder distraerme. Por lo que es mucho más fácil ver *Youtube*, películas, jugar vídeojuegos o escuchar música que pensar en qué voy a escribir. Y aunque sé que al final construir mi blog y tener recuerdos es mucho más gratificante que distraerme, no puedo evitar buscar algo más fácil que hacer.  
 
 Aunque pueda sonar como una excusa, no es fácil escribir un artículo. No es como un diario donde puedo tirar todos mis pensamientos sabiendo que sólo yo lo voy a leer. Tengo que tener en cuenta que otra gente va a leer esto y que tengo que hacerlo de la mejor forma posible porque quiero aportar algo de valor para el lector. 
 
