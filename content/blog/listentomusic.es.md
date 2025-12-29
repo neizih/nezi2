@@ -7,9 +7,9 @@ template = "blog/blog-page.html"
 
 <hr>
 
-Antes de crear esta página había visto muchas otras páginas personales que me habían inspirado a crear la mía. Algo que tenían todas en común era que, durante meses, su sección de Blogs casi nunca tenía contenido nuevo. Lo que eventualmente hacía que no volviera a sus páginas porque se sentía abandonado. Me extrañaba mucho e incluso me aseguraba que iba a subir muchos Blogs hablando de muchos temas distintos cuando tuviera mi propia sección de Blogs. 
+Antes de crear esta página había visto muchas otras páginas personales que me habían inspirado a crear la mía. Algo que tenían todas en común era que, durante meses, su sección de Blogs casi nunca tenía contenido nuevo. Lo que eventualmente hacía que no volviera a sus páginas porque se sentía abandonado.
 
-Después de un año de publicación de mi página solo subí un Blog, se siente igual de abandonado que todas las páginas personales que había visto antes de hacer mi página a pesar de haber estado seguro de que no iba a pasar. 
+Después de un año de publicación de mi página solo subí un Blog, se siente igual de abandonado que todas las páginas personales que había visto antes de hacer la mía a pesar de haber estado seguro de que no iba a pasar. 
 
 Hasta que lo intenté no me había dado cuenta que escribir algo que sea coherente e interesante era de hecho una habilidad que había que pulir con el tiempo, no es como escribir un diario donde se pueden tirar todas las ideas sin pensar mucho en ello. 
 
