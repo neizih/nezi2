@@ -5,15 +5,16 @@ date = 2025-06-10
 template = "blog/blog-page.html"
 +++
 
-Antes de crear mi página personal había visto muchas otras que me habían motivado a hacer la mía, todas compartían algo en común, no habían novedades en su sección de Blogs. Me prometí que una vez publicara mi página iba a subir cientos de blogs, desafortunadamente no he subido uno en todo 2025.
+Antes de crear mi página personal había visto muchas otras que me habían motivado a hacer la mía, todas compartían algo en común, no actualizaban su sección de blogs. Me prometí publicar blogs de manera regular una vez tuviera mi propia página, desafortunadamente solo tuve una publicación en todo 2025.
 
-Había tenido muchos temas en mente de los que quería escribir, y, sin importar qué había escrito ni cuánto, borraba el texto al día siguiente tan pronto lo terminaba de leer. Pensar en que mis textos podían resultar vergonzosos para otras personas me desmotivaba.
+Había tenido muchos temas en mente de los que quería escribir. A pesar de ello, sin importar cuánto había escrito, borraba todo al día siguiente después de leerlo. Pensar en que mis textos podían resultar vergonzosos para otras personas me desmotivaba.
 
-No fue hasta después de un tiempo que me di cuenta que la audiencia principal de está página soy yo mismo! Es aquí donde quiero volver para recordar mis memorias e intereses que fui registrando con el tiempo y compartirlas con personas que puedan resonar conmigo. 
+Eventualmente me di cuenta que la audiencia objetivo de este sitio soy yo! Es Aquí donde quiero volver a recordar mis memorias e intereses que registré conforme pasa el tiempo y, me encantaría compartirlo con personas que puedan resonar conmigo. 
 
+Era muy común para mi ver autores de otras páginas personales hablar de problemáticas actuales. Me hizo olvidar que puedo escribir sobre mis gustos musicales, un día en particular, una historia o incluso enseñar algo. Solía pensar que una sección de blogs solo podía tratar de ciertos temas cuando realmente tengo una libertad absoluta.
 
-En otras páginas personales era muy común ver a los autores hablar de temas serios y de problemáticas actuales, por lo que se me olvidaba completamente que en mi propia sección de Blogs podía hablar también de intereses musicales, un día en particular, una historia e incluso enseñar algo. Tenía una impresión totalmente diferente de una sección de Blogs.
+Creo que escribir es de las cosas más importantes que puedo hacer a diario. Usualmente estoy <a href="https://en.wikipedia.org/wiki/Doomscrolling" target="_blank">doomscrolleando</a> durante todo el día, completamente perdiendo control sobre mi consciencia y tiempo. Usaré esta página como medio para ayudarme a mantener mi mente aguda mientras aprendo mejores maneras de escribir y de comunicar mis ideas.
 
-De igual manera, escribir me parece una de las actividades más importantes que puedo hacer en el día a día. Usualmente estoy <a href="https://en.wikipedia.org/wiki/Doomscrolling" target="_blank">Doomscrolling</a> durante el día, perdiendo total control sobre mi consciencia y mi tiempo. Quiero usar la escritura en esta página como medio para parar de excesivamente consumir contenido y empezar a crear. 
+Dicho esto, me prometo publicar por lo menos una vez al mes sobre algo de mi interés. Quiero compartir muchos textos, imágenes y videos. Espero poder motivar a la persona leyendo esto a explorar su lado creativo y compartirlo por lo medios que deseé. 
 
-Dicho esto, para este 2026 me prometo publicar un blog por lo menos una vez al mes de los temas de mi interés, quiero compartir muchos textos, imágenes y vídeos. Espero al mismo tiempo poder motivar a la persona leyendo esto a explorar su propio lado creativo y compartirlo por los medios que desee.
+Creo firmemente en crear por el simple hecho de crear, por lo que me encantaría escribir muchos textos, tomar muchas fotos, muchos vídeos entre otras cosas para compartirlos por este medio. Me encantaría seguir construyendo esta página y aprovecharla para explorar mi lado creativo, la alternativa a esto es <a href="https://en.wikipedia.org/wiki/Doomscrolling" target="_blank">Doomscrollear</a> por el resto de mis días tan solo para darme cuenta que no tengo registrados mis recuerdos ni logré construir algo, una pena mucho mayor que puedo sentir por alguien leyendo mis publicaciones.   
