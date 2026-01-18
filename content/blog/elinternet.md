@@ -12,8 +12,6 @@ Eventually I realized that target audience of this website is me! Here is where 
 
 It was common to see on other personal websites authors talking about serious topics and current problems. It made me forget how I can just simply write about my music interests, an interesting day, a story or even teach something. I used to think a blog section could only talk about certain topics, when really there is absolute freedom.
 
-I believe writing is one of the most important things I can do on a daily basis. I'm usually <a href="https://en.wikipedia.org/wiki/Doomscrolling" target="_blank">doomscrolling</a> throughout the day, completely losing control over my consciousness and time. I will use this page to help me keep my mind as sharp as possible by slowly learning better ways of writing and communicating my ideas.
+I believe writing is one of the most important things I can do on a daily basis. I'm usually <a href="https://en.wikipedia.org/wiki/Doomscrolling" target="_blank">doomscrolling</a> throughout the day, completely losing control over my consciousness and time. I will use this page to help me keep my mind as sharp as possible by learning better ways of writing and communicating my ideas.
 
 That said, I promise myself to post at least once a month about my interests. I want to share a lot of texts, images and videos. I hope I can motivate the person reading this to explore their creative side and share it by the means they wish to do so.
-
-Thank you for reading!
