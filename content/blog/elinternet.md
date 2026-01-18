@@ -4,7 +4,7 @@ date = 2025-12-01
 lang = "en"
 +++
 
-Before creating my personal website I saw many others that motivated me to create my own, all of them had one thing in common, they didn't update their blogs section. I promised myself to publish regularly once I had my own website, unfortunately I only published one single post in all of 2025.
+Before creating my personal website I saw many others that motivated me to create my own, all of them had one thing in common, they didn't update their blogs section. I promised myself to publish regularly once I had my own website, unfortunately I only published a single post in all of 2025.
 
 I've had many topics in mind I wanted to write about. But, no matter how much I wrote, I deleted everything the next day as soon as I read it over. The thought that people could find my texts embarrassing demotivated me.
 
@@ -14,4 +14,4 @@ It was common to see on other personal websites authors talking about serious to
 
 I believe writing is one of the most important things I can do on a daily basis. I'm usually <a href="https://en.wikipedia.org/wiki/Doomscrolling" target="_blank">doomscrolling</a> throughout the day, completely losing control over my consciousness and time. I will use this page to help me keep my mind as sharp as possible by learning better ways of writing and communicating my ideas.
 
-That said, I promise myself to post at least once a month about my interests. I want to share a lot of texts, images and videos. I hope I can motivate the person reading this to explore their creative side and share it by the means they wish to do so.
+I promise myself to post at least once a month. I want to share a lot of texts, images and videos. I hope I can motivate the person reading this to explore their creative side and share it by the means they wish to do so.

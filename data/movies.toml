@@ -4,12 +4,17 @@ year = 1984
 has_review = false 
 status = 4
 
+[[movies]] 
+title = "Assa"
+year = 1987
+has_review = false 
+status = 4
+
 [[movies]]
 title = "All About Lily Chou-Chou"
 year = 2001
 has_review = false 
 status = 4
-
 
 [[movies]]
 title="Kaili Blues"
@@ -35,11 +40,35 @@ year = 1957
 has_review = false 
 status = 4 
 
+[[movies]] 
+title = "Taste of Cherry" 
+year = 1997
+has_review = false 
+status = 4
+
 [[movies]]
 title = "Trainspotting"
 year = 1996
 has_review = false 
 status = 1 
+
+[[movies]] 
+title = "Barry Lyndon"
+year = 1975
+has_review = false
+status = 1
+
+[[movies]] 
+title = "The Hunt" 
+year = 2012
+has_review = false 
+status = 1
+
+[[movies]] 
+title = "Hana to Arisu" 
+year = 2004
+has_review = false 
+status = 1
 
 [[movies]]
 title = "The Good, The Bad, and The Ugly"
@@ -63,7 +92,7 @@ status = 1
 title = "Inception"
 year = 2010
 has_review = false 
-status = 2 
+status = 1 
 
 [[movies]]
 title = "Eyes Wide Shut"
@@ -71,8 +100,14 @@ year = 1999
 has_review = false 
 status = 2
 
+[[movies]] 
+title = "Cure" 
+year = 1997
+has_review = false 
+status = 2
+
 [[movies]]
-title="Blue Spring 2001"
+title="Blue Spring"
 year=2001
 has_review = false
 status = 2

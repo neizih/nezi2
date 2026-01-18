@@ -15,5 +15,5 @@ Era muy común para mi ver autores de otras páginas personales hablar de proble
 
 Creo que escribir es de las cosas más importantes que puedo hacer a diario. Usualmente estoy <a href="https://en.wikipedia.org/wiki/Doomscrolling" target="_blank">doomscrolleando</a> durante todo el día, completamente perdiendo control sobre mi consciencia y tiempo. Usaré esta página para ayudarme a mantener mi mente fresca a través de buscar mejores maneras de escribir y comunicar mis ideas.
 
-Dicho esto, me prometo publicar por lo menos una vez al mes sobre algo de mi interés. Quiero compartir muchos textos, imágenes y videos. Espero poder motivar a la persona leyendo esto a explorar su lado creativo y compartirlo por lo medios que deseé. 
+Dicho esto, me prometo publicar por lo menos una vez al mes. Quiero compartir muchos textos, imágenes y videos. Espero poder motivar a la persona leyendo esto a explorar su lado creativo y compartirlo por lo medios que deseé. 
 
