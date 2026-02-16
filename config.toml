@@ -17,12 +17,9 @@ description = "English version"
 title = "Nezi"
 description = "Versión en español"
 
-[markdown]
+# [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-
-highlight_code = true
-
 
 [extra]
 paginate_by = 10
