@@ -51,10 +51,45 @@ Finalmente, para el tercer intento, un amigo quiso ayudarme con la instalación.
 
 Después de varias semanas, el slider estaba instalado finalmente. No podía estar más emocionado por aprender a manejar la moto lo más antes posible. 
 
-Más tarde en ese mismo día, intenté sentarme en la moto porque estaba convencido de que me iba a motivar a sacar la moto del garaje, sucedió lo contrario. Me dio miedo pensar en que no podía maniobrar, que se me iba a apagar la moto, que no iba a lidiar bien con las cuestas y las curvas cerca de mi casa, que iba a tener problemas cambiando de marcha entre miles de dudas más que hicieron que bajara de la moto. 
+Más tarde en ese mismo día, intenté sentarme en la moto porque estaba convencido de que me iba a motivar a sacar la moto del garaje, sucedió lo contrario. Me dio miedo pensar en que no podía maniobrar, que se me iba a apagar la moto, que no iba a lidiar bien con las cuestas y las curvas, que iba a tener problemas cambiando de marcha, que no iba a poder recoger la moto si caía, entre miles de dudas más que hicieron que bajara de la moto. 
 
-A pesar de ello, estoy muy seguro de que eventualmente podré manejar la moto. Tenía exactamente los mismos miedos cuando intenté aprender a manejar una van manual, gracias a la ayuda de mi padre aprendí a manejarlo con mucha confianza. Esta vez mis padres están en desacuerdo y preocupados por el hecho de que yo quiera manejar una moto, en especial mi madre. Por lo que tendré que contar con alguien más para aprender a manejar, alguien que no deje caer mi moto y desprenda un slider. 
+Un tiempo después, un amigo y yo teníamos planes para ir a comprar ropa en <a href="https://www.instagram.com/utopiamarketcr/?hl=es">utopiamarketcr</a> y luego me iba a ayudar a manejar la moto. 
 
-Espero pronto subir otro blog sobre mi experiencia manejando una moto incluyendo vídeos! 
+<label> 
+    <input type="checkbox" class="blur-toggle">
+    <div class="image-wrapper">
+        <img src="/yamaha/blood.jpg">
+        <span style="color:#888888">Click para ver, hay sangre</span>
+    </div>
+</label>
 
-Gracias por leer.
+Si hay algo que tengo grabado en fuego en mente gracias a mis padres, primero que todo, es no mentir y, segundo, que nunca manejara una moto. 
+
+Por casi toda mi vida estaba convencido de que nunca manejría una moto, es innecesariamente peligroso! Incluso el mismo mensaje se los repetía a mis hermanos constantemente, así de convencido de los peligros de manejar un moto. 
+
+No fue si no hasta hace unos tres meses que veía vídeos de gente de mi edad manejando motos deportivas, se veía como absoluta libertad y adrenalina. De repente no me importaba el riesgo de perder extremidades o la vida con el fin de sentir que estoy vivo. 
+
+Creo que este cambio tan repentino de un día a otro es consecuencia de haber vivido cróicamente en línea. La gran mayoría de mis recuredos de los últimos 8 años son dentro de videojuegos, y aunque hay momentos que recuerdo con cariño, hay otros que me hacen recordar que es un mal hábito que tengo que dejar. 
+
+Alguien que tengo mucho en mente es Anthony, siempre me acuerdo de esta frase 
+
+> "If you’re twenty-two, physically fit, hungry to learn and be better, I urge you to travel – as far and as widely as possible. Sleep on floors if you have to. Find out how other people live and eat and cook. Learn from them – wherever you go."
+
+Me hizo reflexionar mucho en cómo quiero vivir mis veinte años, y definitivamente no es en un mundo virtual! 
+
+Es por eso que decidí sacar la licencia de conducir para motos, y semanas después, gasté todos mis ahorros en una Yamaha R3 2018 con aproximadamente cuarenta y cinco mil kilómetros.
+
+<img src="/yamaha/IMG_1854.jpg">
+
+No fue si no hasta que había comprado la moto que sentí que tal vez tenía un concepto muy radical de vivir la vida, e incluso era posible que estuviera muy cegado por todas la veces que me imaginé manejando una moto deportiva. 
+
+Lo cierto era que aunque mi licencia es válida para cualquier tipo de moto, la había sacado con una moto de cuatro ruedas. Realmente no tengo idea de cómo manejar una moto. 
+
+Por muchas semanas consideré salir a manejar 
+
+Después de varias semanas un amigo quiso ayudarme a manejar la moto, el no tenía idea de motos pero igual estaba ahí como apoyo moral y por si me caía de la moto.  
+
+Aquellas semanas había acumulado muchos miedos y arrepentimientos. Había incluso considerado vender la moto y buscar algún otro hobby que no fuera tan peligroso. Pero ya había hecho la compra, no había vuelta atrás y sabía que me iba a arrepentir de todas formas si nunca aprendía a manejar la moto. 
+
+Aquel día finalmente saqué la moto del garaje, puse la moto en primera marcha y la arranqué. No t
+
