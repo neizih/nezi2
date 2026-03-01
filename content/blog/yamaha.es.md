@@ -65,11 +65,11 @@ Un tiempo después, un amigo y yo teníamos planes para ir a comprar ropa en <a 
 
 Si hay algo que tengo grabado en fuego en mente gracias a mis padres, primero que todo, es no mentir y, segundo, que nunca manejara una moto. 
 
-Por casi toda mi vida estaba convencido de que nunca manejría una moto, es innecesariamente peligroso! Incluso el mismo mensaje se los repetía a mis hermanos constantemente, así de convencido de los peligros de manejar un moto. 
+Por casi toda mi vida estaba convencido de que nunca manejaría una moto, es innecesariamente peligroso! Incluso el mismo mensaje se los repetía a mis hermanos constantemente, así de convencido estaba sobre qué vehículo manejar. 
 
 No fue si no hasta hace unos tres meses que veía vídeos de gente de mi edad manejando motos deportivas, se veía como absoluta libertad y adrenalina. De repente no me importaba el riesgo de perder extremidades o la vida con el fin de sentir que estoy vivo. 
 
-Creo que este cambio tan repentino de un día a otro es consecuencia de haber vivido cróicamente en línea. La gran mayoría de mis recuredos de los últimos 8 años son dentro de videojuegos, y aunque hay momentos que recuerdo con cariño, hay otros que me hacen recordar que es un mal hábito que tengo que dejar. 
+Creo que este cambio tan repentino es consecuencia de haber vivido cróicamente en línea. La gran mayoría de mis recuredos de los últimos 8 años son dentro de una computadora, y aunque fue divertido, hay moemntos que me hacen recordar que es un mal hábito que tengo que dejar. 
 
 Alguien que tengo mucho en mente es Anthony, siempre me acuerdo de esta frase 
 
@@ -85,11 +85,21 @@ No fue si no hasta que había comprado la moto que sentí que tal vez tenía un 
 
 Lo cierto era que aunque mi licencia es válida para cualquier tipo de moto, la había sacado con una moto de cuatro ruedas. Realmente no tengo idea de cómo manejar una moto. 
 
-Por muchas semanas consideré salir a manejar 
+Por muchas semanas consideré salir a manejar por mi cuenta pero no me parecía buena idea, si me caía tenía que levantar una moto de 160 kg por mi cuenta, cosa que no puedo hacer. Un día, un amigo dicidió ayudarme, no tenía idea de manejar motos pero estaba presente por si sucedía algo. 
 
-Después de varias semanas un amigo quiso ayudarme a manejar la moto, el no tenía idea de motos pero igual estaba ahí como apoyo moral y por si me caía de la moto.  
+Aquel día finalmente saqué la moto del garaje, puse la moto en primera marcha y manejé. Era igual que manejar un carro manual en primera, si se acelera y de repente se suelta el gas, el vehículo frena con el motor repentinamente. No se me ocurrió que pudiera suceder en una moto por lo que, cuando ocurrió, entré en pánico e invadí el otro carríl mientras intentaba frenar. 
 
-Aquellas semanas había acumulado muchos miedos y arrepentimientos. Había incluso considerado vender la moto y buscar algún otro hobby que no fuera tan peligroso. Pero ya había hecho la compra, no había vuelta atrás y sabía que me iba a arrepentir de todas formas si nunca aprendía a manejar la moto. 
+Seguí al otro lado de la calle, donde había una bajada tan empinada que era lo que más evitaba que saliera por mi cuenta a manejar. De hecho no quería en lo absoluto bajar por aquel lado pero mi amigo me convenció de intentarlo. Lo había logrado a la primera sin mayor dificultad, esa calle estaba en mis pesadillas y hacía que quisiera vender la moto. 
 
-Aquel día finalmente saqué la moto del garaje, puse la moto en primera marcha y la arranqué. No t
+Parecía que le había agarrado el truco, tan solo tenía que hacer un giro en U y volver a casa por la misma subida. Cuando intenté hacer el giro en U, quería frenar para esperar a mi amigo. Por alguna razón, cuando quise frenar, la moto empezó a revolucionar, mientras estaba parada, al máximo, quería frenar y parar y no podía. Me entró el pánico y me caí de la moto. Por suerte me caí mientras estaba parado por lo que no fue nada grave. 
 
+La única explicación era que tenía el clutch puesto al máximo mientras aún aceleraba. Puede que me confundiera mientras frenaba ya que acelerar y el freno delantero se hacen con la misma mano. Nunca antes había agarrado tan bien memoria muscular después de ese accidente. 
+
+De vuelta a casa, tenía que nuevamente hacer la subida mie
+
+
+
+Pensaba que por saber manejar bicicleta, podía manejar cualquier moto que quisiera, no podía estar más alejado de la realidad. Me di cuenta que debería tenerle más respeto 
+
+
+Estaba nervioso y considerando si realmente quería manejar una moto, más tarde pude ir en línea recta hasta el final de la calle. Giré la moto en neutro e hice la misma recta. Me latía el corazón, finalmente había manejado la moto. La sensación del aire mientras manejaba era increíble, quería invertir en aprender a manejar una moto.
